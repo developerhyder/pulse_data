@@ -13,4 +13,4 @@ the monitor using matplotlib
 refer main.py
 for more on reading the data from serial monitor
 
-![alt text] (img.png)
+![alt text](img.png)
